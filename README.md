@@ -10,6 +10,7 @@ This Python script helps you clean up Guitar Pro 5 (`.gp5`) files by converting 
 
 * **GP5 Only:** Only works with GP5 files. You must export any newer GP files to GP5 or older via File>Export>GP5 in Guitar Pro 8.
 * **Time Signatures:** I've only tested on 4/4 and 3/4. More testing required for odd time signatures.
+* **No Triplets:** Because Guitar Pro does not have a way to indicate triplets on tremolo picking, you will need to make sure the conversion is accurate. If the song sounds slightly faster than your tab, you will likely need to add triplets.
 * **Potential issues:** Know that it may mess with other techniques that some tabs have such as using tremolo for pickscrapes in GP.
 
 ## Requirements
