@@ -3,13 +3,14 @@ This Python script helps you clean up Guitar Pro 5 (`.gp5`) files by converting 
 ## Features
 
 * **Tremolo Conversion:** Converts tremolo-picked notes into a sequence of individual notes based on the detected tremolo speed (e.g., 8th, 16th, 32nd notes).
-* **Intelligent Speed Detection:** Attempts to read the tremolo picking speed from the GP5 file.
+* **Guitar and Bass Support:** Works on both.
 * **Chord Support:** Handles tremolo picking on chords by duplicating all notes in the chord for each subdivision.
 
 ## Limitations
 
 * **GP5 Only:** Only works with GP5 files. You must export any newer GP files to GP5 or older via File>Export>GP5 in Guitar Pro 8.
 * **Time Signatures:** I've only tested on 4/4 and 3/4. More testing required for odd time signatures.
+* **Potential issues:** Know that it may mess with other techniques that some tabs have such as using tremolo for pickscrapes in GP.
 
 ## Requirements
 
