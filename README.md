@@ -1,4 +1,4 @@
-This Python script helps you clean up Guitar Pro 5 (`.gp5`) files by converting tremolo picking effects into individual notes, respecting the tremolo speed encoded in the file (hopefully). This can be particularly useful for those who prefer to see explicitly written notes rather than tremolo notations, or most notably for better note detection and readability in Rocksmith CDLC (Black Metal charters rejoice). More testing required. 
+This Python script helps you clean up Guitar Pro 5 (`.gp5`) files by converting tremolo picking effects into individual notes, respecting the tremolo speed encoded in the file (hopefully). This can be particularly useful for those who prefer to see explicitly written notes rather than tremolo notations, or most notably for better note detection and readability in Rocksmith CDLC (Black Metal charters rejoice). Doesn't work perfectly, but better than I expected for a day's worth of work. More testing is required. May require manual corrections and you should review the conversion anyway.
 
 ## Features
 
