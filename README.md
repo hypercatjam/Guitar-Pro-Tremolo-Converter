@@ -36,8 +36,6 @@ If these commands return version numbers (e.g., `Python 3.x.x` and `pip x.x.x`),
 
 ---
 
-## Installation Instructions
-
 ### Windows
 
 1. **Download the Script**  
